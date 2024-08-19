@@ -20,7 +20,7 @@ Plug in your new phone with a USB cable and set as File Transfer.
 
 You should be able to locate the database file in a folder like this, 
 
-![screenshot]([https://github.com/alexcmak/tetris/blob/main/screenshot1.png](https://github.com/alexcmak/AndroidApps/blob/main/DaysSincePro3/internal_shared_storage_dsp.png))
+![screenshot](https://github.com/alexcmak/AndroidApps/blob/main/DaysSincePro3/internal_shared_storage_dsp.png)
 
 
 Copy that file in your computer.
