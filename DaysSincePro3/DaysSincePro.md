@@ -13,4 +13,18 @@ Modern android apps support [auto backup](https://developer.android.com/guide/to
 
 ## Backup and Restore
 
-Some users has reported that auto backup did not work. There is a work around. There is a *Back Up* menu item in on the app. Use that to export the database file (daysSince.db) in a directory where you can retrive it and store in you PC. Plug in your new phone and find the database file, and use the *Restore* menu item to find it.
+Some users has reported that auto backup did not work. There is a work around. 
+
+There is a *Back Up* menu item in on the app. Use that to export the database file (daysSince.db) in a directory where you can retrive it and store in you PC. 
+Plug in your new phone with a USB cable and set as File Transfer.
+
+You should be able to locate the database file in a folder like this, 
+
+![screenshot]([https://github.com/alexcmak/tetris/blob/main/screenshot1.png](https://github.com/alexcmak/AndroidApps/blob/main/DaysSincePro3/internal_shared_storage_dsp.png))
+
+
+Copy that file in your computer.
+
+Plug in the new phone, transfer the file to the new phone
+
+*Restore* menu item to find it.
