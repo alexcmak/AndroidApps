@@ -9,7 +9,13 @@ An android phone is good for about 3 years. What happens to the entries that wer
 
 ## Auto Backup for Apps
 
-Modern android apps support [auto backup](https://developer.android.com/guide/topics/data/autobackup). Days Since Pro has auto backup enabled. On your new phone, if you find the app from Google Play again, your data *should* already be there.
+Modern android apps support [auto backup](https://developer.android.com/guide/topics/data/autobackup). Days Since Pro has auto backup enabled. 
+
+Before you start using a new phone, you should go to Settings | System | Backup on your old phone to back up data to the cloud.
+
+On your new phone, when you find the app from Google Play again, your data *should* already be there.
+
+In most cases, you do not need to worry about backup and restore.
 
 ## Backup and Restore
 
@@ -28,10 +34,16 @@ Copy that file in your computer.
 
 ## Restore (Replace data from file)
 
-Plug in the new phone, transfer the daysSince.db file to the new phone. 
+Older Android phones:
+
+The restore function will bring up a browser, you can navigate the file system and find your database file.
 
 For Android 11 and newer, you need to place the file into the only directory that the app can access. See figure above.
 
-A Choose your file dialog appears, daysSince.db should appear.
 
-*Restore* menu item to find it.
+Plug in the new phone, transfer the daysSince.db file to the new phone. 
+
+
+A Choose your file dialog appears, *daysSince.db* should appear. If you pick that, the data is replaced.
+
+
