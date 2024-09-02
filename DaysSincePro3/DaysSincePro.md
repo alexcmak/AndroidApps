@@ -25,6 +25,10 @@ You should be able to locate the database file in a folder like this,
 
 Copy that file in your computer.
 
-Plug in the new phone, transfer the file to the new phone
+## Restore (Replace data from file)
+
+Plug in the new phone, transfer the daysSince.db file to the new phone. 
+For Android 11 and newer, you need to place the file into the only directory that the app can access.
+
 
 *Restore* menu item to find it.
