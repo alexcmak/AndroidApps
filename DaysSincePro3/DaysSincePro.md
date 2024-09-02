@@ -15,20 +15,23 @@ Modern android apps support [auto backup](https://developer.android.com/guide/to
 
 Some users has reported that auto backup did not work. There is a work around. 
 
-There is a *Back Up* menu item in on the app. Use that to export the database file (daysSince.db) in a directory where you can retrive it and store in you PC. 
+There is a *Back Up* menu item in on the app. Use that to **export the database file** (daysSince.db) in a directory where you can retrive it and store in you PC. 
 Plug in your new phone with a USB cable and set as File Transfer.
 
-You should be able to locate the database file in a folder like this, 
+You should be able to locate the database file in a folder like this:
 
 ![screenshot](https://github.com/alexcmak/AndroidApps/blob/main/DaysSincePro3/internal_shared_storage_dsp.png)
 
+The **db** file is not a Microsoft Access file, it is a SQLite file. If you are interested you can download [SQLite browser](https://sqlitebrowser.org/) and open the file if you wish to examine its contents.
 
 Copy that file in your computer.
 
 ## Restore (Replace data from file)
 
 Plug in the new phone, transfer the daysSince.db file to the new phone. 
-For Android 11 and newer, you need to place the file into the only directory that the app can access.
 
+For Android 11 and newer, you need to place the file into the only directory that the app can access. See figure above.
+
+A Choose your file dialog appears, daysSince.db should appear.
 
 *Restore* menu item to find it.
