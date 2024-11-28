@@ -10,7 +10,7 @@ An android phone is good for about 3 years. What happens to the entries that wer
 ## End of Support 
 
 Days Since Pro 3 is now out of the Google Play Store. (Nov 2024)
-Google makes it difficult for the individual programmers to post apps and demand just too much personal information. My google app store is closed (by Google).
+Google makes it difficult for the individual programmer to post apps and demand just too much personal information. My google app store is closed (by Google).
 
 Days Since Pro 3.1.5 published in Oct 4 2023 was the final version. 
 
@@ -18,8 +18,11 @@ Unfortunately when you upgrade your phone you will not be able reinstall the app
 
 Thank you all for suggestions and input for the fairly successful app that ran on over 10,000 devices and were on most continents.
 
+## Old, obsolete but interesting information
 
-## Auto Backup for Apps
+The following information was all true before my app store is closed.
+
+### Auto Backup for Apps 
 
 Modern android apps support [auto backup](https://developer.android.com/guide/topics/data/autobackup). Days Since Pro has auto backup enabled. 
 
@@ -29,7 +32,7 @@ On your new phone, when you find the app from Google Play again, your data *shou
 
 In most cases, you do not need to worry about backup and restore.
 
-## Backup and Restore
+### Backup and Restore
 
 Some users has reported that auto backup did not work. There is a work around. 
 
@@ -44,7 +47,7 @@ The **db** file is not a Microsoft Access file, it is a SQLite file. If you are 
 
 Copy that file in your computer.
 
-## Restore (Replace data from file)
+### Restore (Replace data from file)
 
 Older Android phones:
 
