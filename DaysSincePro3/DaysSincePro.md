@@ -1,4 +1,20 @@
-## Days Since Pro 3
+## Days Since Pro 3 - End of Support 
+
+Days Since Pro 3 is now out of the Google Play Store. (Nov 2024)
+Google makes it difficult for the individual programmer to post apps and demand just too much personal information. My google app store is closed (by Google).
+
+Days Since Pro 3.1.5 published in Oct 4 2023 was the final version. 
+
+**Unfortunately when you upgrade your phone you will not be able reinstall the app.**
+
+Thank you all for suggestions and input for the fairly successful app that ran on over 10,000 devices and were on most continents.
+
+## Old, obsolete but interesting information
+
+The following information was all true before my app store is closed.
+
+### Days Since Pro 3
+
 The first version of [Days Since Pro](https://play.google.com/store/apps/details?id=com.alexcmak.dayssincepro) was released on Sep 18, 2016 as a replacement to the app's predecessor *Days Since Lists*, which was launched even earlier. Days Since Lists was designed for Android 2.0 and was created with a very early way of creating android apps through an Eclipse plugin. Days Since Pro is a free app and has hundreds of users from all over the world.  
 
 Users can enter any number of life events and the app simply tell you have many days since that event or how many days until the event. The app let the user organize in categories, and present the data in several formats.
@@ -7,20 +23,7 @@ Each entry is stored on your phone in a [SQLite](https://www.sqlite.org/) data f
 
 An android phone is good for about 3 years. What happens to the entries that were created by the user? How can the entries get to the new phone?
 
-## End of Support 
 
-Days Since Pro 3 is now out of the Google Play Store. (Nov 2024)
-Google makes it difficult for the individual programmer to post apps and demand just too much personal information. My google app store is closed (by Google).
-
-Days Since Pro 3.1.5 published in Oct 4 2023 was the final version. 
-
-Unfortunately when you upgrade your phone you will not be able reinstall the app.
-
-Thank you all for suggestions and input for the fairly successful app that ran on over 10,000 devices and were on most continents.
-
-## Old, obsolete but interesting information
-
-The following information was all true before my app store is closed.
 
 ### Auto Backup for Apps 
 
